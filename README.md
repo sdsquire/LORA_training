@@ -1,0 +1,2 @@
+# LORA Training
+In this repo, I practice my hand at training an LLM with Low Rank Adaptation (LoRA). I initially follow [Shaw Talbi's](https://www.youtube.com/watch?v=eC6Hd1hFvos&t=940s) tutorial fairly closely, but make changes as I try different processes.
